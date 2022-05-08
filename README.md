@@ -2,14 +2,23 @@
 new class about git/python
 
 # Myself 
-new class about git/python
-***I go by the name Who do men say am I?***.
-like doing this and this whople piece is centered on learning and -------- becoming good at it.My hobbies are 
-* fifa
-* soccer 
-   * listening to music 
-[watching moivie can be my thing at times and i think this exercise is fun]
-check this out at <www.google.com> .....
+My father is a pastorr and my mother is a pastor. Loving their profession is one of the greatest inspirations they provide me each day. I am the only child of my parents. They keep me motivated and always make me learn from my failures. Your family is one of the backbone and support which helps you stand in today’s cutthroat competition.
+
+## My mother:
+she has always been an inspiration to me. She is my absolute role model and I truly aspire to become like her. Therefore, I always try to follow her rules and principles.
+
+My school has an important role in my holistic development. Whatever I am today, is just because of my family and friends and my school. My teachers have always taught me to be energetic and full of positivity. They inspire me each day to be better.
+
+I am a bookworm and I enjoy reading various types of novels as well as classic literature like Shakespearean dramas. I also love to go through Indian history as I have a deep interest in knowing about it. Apart from reading, I am very fond of writing poems of my choice. Recently, I am also focussing on Learning
+#. Guitar
+#. Piano
+#. Drums 
+
+******
+
+To be honest, I am also fond of social media and love to play online games. One of the favorite games which I love to play nowadays is the 3-D racing car.
+
+I would also like to mention my best friend Neema who always stays with me and gives me motivation and courage. Even if it is a small help from taking class notes to eating together, Edddy has always been important to me. Friends are a very significant part of your life and true friends are always there with you in every up and down of life. check this out <http://www.google.com>
 # THREE PYTHON KEYWORDS 
 The "return" statement
 **********************
