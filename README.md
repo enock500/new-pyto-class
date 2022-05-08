@@ -10,9 +10,9 @@ she has always been an inspiration to me. She is my absolute role model and I tr
 My school has an important role in my holistic development. Whatever I am today, is just because of my family and friends and my school. My teachers have always taught me to be energetic and full of positivity. They inspire me each day to be better.
 
 I am a bookworm and I enjoy reading various types of novels as well as classic literature like Shakespearean dramas. I also love to go through Indian history as I have a deep interest in knowing about it. Apart from reading, I am very fond of writing poems of my choice. Recently, I am also focussing on Learning
-#. Guitar
-#. Piano
-#. Drums 
+* [Guitar]
+* [Piano]
+* [Drums] 
 
 ******
 
